@@ -2,10 +2,6 @@
 
 My notes and preparation materials for Certified Kubernetes Administrator Exam. This repo may also contain additional resources and links which are not related to CKA, but generally useful for Kubernetes administration
 
-Update: I passed CKA exam with 95% score! Here is the screenshot
-
-![CKA](images/cka.png "CKA")
-
 
 # Folder structure
 
@@ -56,22 +52,22 @@ Know how to snapshot/restore ETCD from another machine
 
 # Plan
 
-- [x] Complete `Kubernetes the hard way` using LXC containers and document the steps (Or maybe using digitalocean droplets) - try multiple times
-- [x] Go through handbook and curriculm
-- [x] Register for the Exam
-- [x] Learn RBAC from official doc
-- [x] Learn each topic from curriculm separately and prepare notes
-- [x] Install using kubeadm on digitalocean droplets and play with it
-- [x] Go through a CKA excercises repo and try out all the excercises
-- [x] Master the kubernetes official documentation
-- [x] Take some sample test from somewhere
+- [ ] Complete `Kubernetes the hard way` using LXC containers and document the steps (Or maybe using digitalocean droplets) - try multiple times
+- [ ] Go through handbook and curriculm
+- [ ] Register for the Exam
+- [ ] Learn RBAC from official doc
+- [ ] Learn each topic from curriculm separately and prepare notes
+- [ ] Install using kubeadm on digitalocean droplets and play with it
+- [ ] Go through a CKA excercises repo and try out all the excercises
+- [ ] Master the kubernetes official documentation
+- [ ] Take some sample test from somewhere
 - [ ] Install kubernetes in a single node using binaries, without tls and all
 - [ ] Try out a full sample test locally
 - [ ] Try out all my excercises again
-- [x] Try out killer.sh free sessions
-- [x] Schedule the exam (sometime around august last week or September first week 2021)
-- [x] Go through notes again
-- [x] Take the exam!
+- [ ] Try out killer.sh free sessions
+- [ ] Schedule the exam (sometime around august last week or September first week 2021)
+- [ ] Go through notes again
+- [ ] Take the exam!
 
 
 # Links
